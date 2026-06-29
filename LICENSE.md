@@ -1,4 +1,4 @@
-# 
+# Inteligente ObjectDetect baixador. Baixe e instale com implantação local e sincronização em nuvem — rápido, seguro e fácil de usar.
 
 
 
